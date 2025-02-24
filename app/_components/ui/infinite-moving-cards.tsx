@@ -179,7 +179,7 @@ export const InfiniteMovingCards = ({
   const getSpeed = () => {
     if (containerRef.current) {
       const speedMap = {
-        fast: "20s",
+        fast: "10s",
         normal: "40s",
         slow: "80s",
       };
