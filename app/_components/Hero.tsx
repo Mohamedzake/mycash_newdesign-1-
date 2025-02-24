@@ -7,10 +7,10 @@ import Image from "next/image";
 import ar_hero_web from "../../public/ar_her_web.webp";
 import en_hero_web from "../../public/en_hero_web.webp";
 import hero_mobile from "../../public/hero_mobile.webp";
-import Brands from "./Brands";
+// import Brands from "./Brands";
 import FreeTrialButton from "./FreeTrialButton";
 import { useLocale } from "../layout";
-import CompanyLogos from "./CompanyLogos";
+// import CompanyLogos from "./CompanyLogos";
 import { InfiniteMovingCardsDemo } from "./InfiniteMovingCardsDemo";
 
 const Hero = () => {
@@ -55,7 +55,7 @@ const Hero = () => {
           />
         </div>{" "}
         {/* <CompanyLogos /> */}
-        <Brands />
+        {/* <Brands /> */}
         <InfiniteMovingCardsDemo />
       </div>{" "}
     </div>
