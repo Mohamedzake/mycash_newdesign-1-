@@ -9,8 +9,8 @@ export async function generateStaticParams() {
 }
 
 const ArticleDetails = ({ params }: { params: { articleid: string } }) => {
-  // const id = params.articleid;
-  // console.log(id);
+  const id = params.articleid;
+  console.log(id);
   // const unwrappedParams = React.use(params);
 
   return <div className="p-6">Details for the post </div>;
