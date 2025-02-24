@@ -1,0 +1,340 @@
+{
+  "Globals": {
+    "get_trial": "Start your free trial"
+  },
+  "navbar": {
+    "start_now": "Start now",
+    "arabic": "العربية",
+    "english": "English",
+    "contact_us": "Contact us",
+    "articles": "Blogs",
+    "packages": "Packages",
+    "solutions": "Solutions",
+    "about_us": "About us",
+    "main_page": "Home",
+    "login": "login",
+    "solutions_ai":"AI Solutions",
+    "solutions_sales":"Sales Solutions",
+    "solutions_pos":"POS Solutions"
+
+  },
+  "mainpage": {
+    "description_title": "Discover an Innovative Experience with My Cash",
+    "main_title1": "My Cash system was designed to optimize sales and payments management, streamlining these processes with professional standards and expertise",
+    "know_more": "Learn more",
+    "get_trial": "Start your free trial"
+  },
+  "solutions": {
+    "discover_our_solutions": "Discover our solutions",
+    "control_your_payment": "Control your store payments easily with My Cash Solutions",
+
+    "pos_solutions": "POS Solutions",
+    "pos_solutions_desc": "My Cash provides innovative payment solutions that simplify the management of payment processes with security and efficiency. These include electronic payments, credit cards, and digital wallets",
+
+    "sales_solutions": "Sales Solutions",
+    "sales_solutions_desc": "Enabling you to enhance the sales experience with smart tools for analyzing customer behavior, managing inventory, and providing accurate real-time reports",
+
+    "ai_solutions": "AI Solutions",
+    "ai_solutions_desc": "We offer innovative technologies designed to enhance efficiency and elevate experiences across various fields, from data analysis to automation and intelligent customer interaction",
+    
+    "know_more": "Learn more",
+    "get_trial": "Start your fre trial"
+  },
+
+  "advancedSolutions": {
+    "title": "A New Vision For Managing Your Business",
+    "subtitle": "Advanced AI Solutions",
+    "description": " Make your business intelligent with advanced AI solutions, and be ready for the future of digital business.",
+
+    "attend_leave_title": "The Attendance and Leave System:",
+    "attend_leave_description": "The system relies on accurate and secure employee attendance and leave tracking to improve employee engagement and provide real-time reports.",
+
+    "sell_over_cams_title": "Selling over Cameras",
+    "sell_over_cams_description": "An AI-powered solution that enables accurate product recognition and real-time sales tracking without the need for human intervention. This technology provides",
+
+    "number_of_clients_title": ":The Number of Clients System",
+    "number_of_clients_description": "The system provides accurate sales data, attendance data, and customer engagement data for specific days, which helps you plan better and increase profits",
+
+    "ages_gender_title": "Age and Gender Analysis",
+    "ages_gender_description": "The system provides a comprehensive analysis of age and gender groups, which allows you to tailor offers and services based on customer needs, and improve sales strategies."
+  },
+"carousel": {
+    "special_features": "Exclusive Features",
+    "desc1": "The exclusive features of My Cash system",
+    "subtitle": "Artificial Intelligence and Smart Payment Solutions",
+    "title1": "Comprehensive and Easy Management",
+    "title2": "Sales and Inventory Management",
+    "title3": "Integrated Payment Systems",
+    "title4": "Accessibility Across Devices",
+    "title5": "Quick and Easy Sales Tracking",
+    "title6": "Multiple Payment Options",
+
+    "pont1_1": "Simplified Dashboard",
+    "pont1_2": "Seamless Operations Management",
+    "pont1_3": "Smart Integration with Systems",
+
+    "pont2_1": "Inventory Tracking System",
+    "pont2_2": "Quotation Issuance",
+    "pont2_3": "Integration Between Sales and Inventory",
+
+    "pont3_1": "Comprehensive Connection to Payment Platforms",
+    "pont3_2": "Support for 'Buy Now, Pay Later' Systems (Tabby, Tamara)",
+    "pont3_3": "Unified Order Management System",
+
+    "pont4_1": "Multi-Device Support",
+    "pont4_2": "Remote Business Management",
+    "pont4_3": "Interface Compatible with All Systems",
+
+    "pont5_1": "Easy Operations Tracking",
+    "pont5_2": "Fast Search and Simple Interface",
+    "pont5_3": "Accurate Business Performance Reports",
+
+    "pont6_1": "Multiple Payment Options to Suit Your Needs",
+    "pont6_2": "Integration with Modern Payment Systems",
+    "pont6_3": "Detailed Payment Reports"
+  },
+  "agreements": {
+    "heading": "Signing Agreements to Enhance Innovation and Support Digital Transformation",
+    "title1": "An agreement was signed with Paymob to facilitate payment operations for businesses across the Kingdom of Saudi Arabia",
+    "title2": "An agreement was signed with the National Commercial Bank to enhance financial services and provide innovative payment solutions"
+  },
+  "aboutus": {
+    "special_features": "Exclusive features",
+    "title": "Enhance your product with MyCash features",
+    "subtitle": "Enhance your business with the power of AI and smart payment solutions.",
+    "des_title1": "Access the system from any device",
+    "des_subtitle1": "You can access the system from any device with ease, whether you use a phone, a laptop, or a personal computer. You can track your work and manage your sales and inventory in any time and place.",
+    "des_title2": "Fast and easy sales tracking",
+    "des_subtitle2": "Track your sales efficiently and easily with the intelligent solutions and get a detailed report of your business activities, and track all sales transactions with ease and without any commitment.",
+    "des_title3": "خيارات دفع متعددة",
+    "des_subtitle3": "استمتع بخيارات دفع متعددة تناسب احتياجاتك، اختر من بين عدة طرق دفع مريحة وآمنة، مما يسهل على عملائك إتمام معاملاتهم بسهولة وسرعة.",
+    "get_trial": "أحصل على نسختك التجريبية"
+  },
+  "mycashai": {
+    "title": "MyCash AI",
+    "description_title_l1": "My Cash uses AI-powered devices and advanced camera networks to integrate store systems, transforming collected data into actionable insights to enhance efficiency and improve customer experience.",
+    "get_trial": "Start your free trail",
+    "learn_more": "Learn more"
+  },
+  "promosection": {
+    "promoHeading": "Get you Perfect Experience with MyCash",
+    "promo_description": "Discover a seamless and personalized experience with all the tools you need for a hassle-free life. Whether you're at home or abroad, MyCash keeps you connected and in control at any time and place.",
+    "cta_text": "Download from Google Play",
+    "register_now": "Register Now"
+  },
+  "promotion": {
+    "main_title": "Get you Perfect Experience with MyCash",
+    "sub_title": "Discover a seamless and personalized experience with all the tools you need for a hassle-free life. Whether you're at home or abroad, MyCash keeps you connected and in control at any time and place."
+  },
+  "contact": {
+    "contact_title": "Get In Touch With Us And Start Your Bussiness",
+    "contact_description": "Don't hesitate to get in touch with us and start your business with MyCash.",
+    "get_in_touch": "Get In Touch"
+  },  
+  "contact2": {
+    "contact_title": "Get In Touch With Us",
+    "contact_description": "In My Cash, we are keen to offer a comfortable and seamless experience to our customers. So our customer service team is always ready to provide support and answer any queries or resolve any complaints you may encounter",
+    "get_in_touch": "Contact Us"
+  },
+  "footer": {
+    "footer_title": "My Cash system was designed to optimize sales and payments management, streamlining these processes with professional standards and expertise",
+    "mycash": "MyCash",
+    "about_us": "About Us",
+    "our_vision_mission": "Our Vision and Mission",
+    "our_partners": "Our Partners",
+    "our_articles": "Articles",
+    "packages": "Packages",
+    "contact_us": "Contact Us",
+    "solutions": "Solutions",
+    "ai_solutions": "AI Solutions",
+    "sales_solutions": "Sales Solutions",
+    "pos_solutions": "POS Solutions",
+    "mycash_ai": "MyCash AI",
+    "download_app": "Download App"
+  },
+  "landing": {
+    "header_maintitle": "Get MyCash App Today",
+    "header_subtitle": "The smart solution for effortlessly managing sales and payments",
+    "first_name": "First Name",
+    "family_name": "Family Name",
+    "email": "E-mail",
+    "email_text": "Enter E-mail",
+    "phone_text": "Phone Number",
+    "phone_num": "55XXXXXXX",
+    "company_name": "Company Name",
+    "enter_company_name": "Enter Company Name",
+    "branches_num": "How Many Branches ?",
+    "how_many_branches": "Enter Branches Number",
+    "submit": "Send",
+    "sending":"Sending...",
+    "required":{
+      "first_name":"First Name Required",
+      "family_name":"Family Name Required",
+      "email": "E-mail Required",
+      "phone_num": "Phone Number Required",
+      "company_name": "Company Name Required",
+      "branches_num": "How Many Branches Required"
+    },
+    "messages":{
+      "success":"Form Has been Sent Successfully",
+      "error":"An error occurred while submitting the form. Please try again"
+    }
+
+  },
+  "whymycash": {
+    "whymycash_title": "Combine sales solutions, artificial intelligence, and payments in one integrated system",
+    "sales_heading": "Sales Solutions",
+    "sales_desc": "My Cash provides tools to manage sales efficiently, track performance, analyze customer data, and manage inventory in real-time using advanced technologies",
+    
+    "ai_heading": "AI Solutions",
+    "ai_desc": "At My Cash, we offer AI solutions to analyze data, predict sales trends, and enhance business performance by understanding customer needs",
+    
+    "payments_heading": "Payment Solutions",
+    "payments_desc": "We offer secure payment solutions supporting cash, cards, and e-wallets, ensuring smooth transactions and multiple options for customers"
+  },
+
+  "whychoosemycash": {
+    "title": "Why Choose My Cash System ?",
+    "title1": "Combines sales management, payment solutions, and artificial intelligence in one platform",
+    "title2": "Provides a comfortable user experience for all skill levels",
+    "title3": "Ensures the protection of your data and financial transactions",
+    "title4": "Helps you make informed decisions to drive business growth",
+    "title5": "Guarantees smooth operation with technical assistance",
+    "title6": "Analyzes data, understands customer behavior, and enhances operational efficiency"
+  },
+  
+  
+  "package": {
+    "title": "MyCash Packages",
+    "subtitle": "Choose the best package for your business and start your business with MyCash",
+    "start_now": "Start Now",
+    "pricing_mobile":{
+      "show_features" :"Show Features"
+    }
+  },
+  "contactus": {
+    "contact_us": "Contact Us",
+    "subtitle": "MyCash System is a comprehensive AI-based system that provides a range of features to optimize sales and payments management, streamlining these processes with professional standards and expertise",
+    "start_now": "Start Now",
+    "email": "Email",
+    "email_input": "Enter your email",
+    "your_name": "Enter your name",
+    "phone": "Phone",
+    "message": "Enter your phone number",
+    "message_input": "Enter your phone number"
+  },
+  "contactustoday": {
+    "heading":"تواصل معنا",
+    "description":"في ماي كاش، نحرص على تقديم تجربة مريحة وسلسة لعملائنا. لذلك فإن فريق خدمة العملاء لدينا مستعد دائمًا لتقديم الدعم والإجابة على أي استفسارات أو حل أي شكاوى قد تواجهك.",
+    "contactustoday": " Get In Touch With Us Today ",
+    "phone_number": "Phone Number",
+    "email": "E-mail",
+    "address": "The Address",
+    "address_text": "3273, Anas bin Malik, As-Sahafah District, 8369 Riyadh - Kingdom of Saudi Arabia",
+    "email_text": "Enter E-mail",
+    "phone": " Phone Number",
+    "phone_text": " Enter Your Phone Number",
+    "name":"Your Name",
+    "name_text":"Enter Your Full-name",
+    "company_name":" Company Name ",
+    "company_name_text":" Enter Company Name ",
+    "your_msg":" Your Message ",
+    "your_msg_area":"Enter Your Message",
+    "send":"Send"
+  },
+  "solutionsai":{
+    "title":"AI Solutions",
+    "sub_title":"We provide innovative technologies to enhance efficiency and elevate experiences across various fields, from data analysis to automation and intelligent customer interaction ",
+    "about":"About",
+    "description":"AI Solutions",
+    "sub_heading":"Advanced AI Solutions: A New Vision for Business Management",
+    
+    "point1":"Selling via Cameras",
+    "desc1":"Enables automatic product recognition and sales recording as soon as the camera captures the items",
+    
+    "point2":"Attendance and departure",
+    "desc2":"Relies on facial recognition to accurately and securely log employee check-ins and check-outs",
+    
+    "point3":"Measuring customer visit counts",
+    "desc3":"The system provides accurate statistics on visitor count and customer traffic on specific days",
+    
+    "point4":"Age and Gender Analysis",
+    "desc4":"Provides comprehensive reports on customer age groups and gender demographics",
+    
+    "point5":"Smart Future Management",
+    "desc5":" An AI-powered system that provides accurate, real-time sales analytics",
+    
+    "point6":"Innovative Payment Solutions",
+    "desc6":"Comprehensive support for all payment methods, including payment cards, digital wallets, and cash payments",
+    "mycashai_heading":"My Cash AI Main Features",
+    "mycashai_feature":"Designed to facilitate the management of store operations and enhance their efficiency",
+    "get_trial":"Start your fre trial"
+  },
+  "solutionsales":{
+    "title":"Sales Solutions",
+    "sub_title":"Innovative solutions with My Cash for managing your sales effortlessly and professionally",
+    
+    "point1":"Comprehensive Sales Management",
+    "desc1":"The application provides an all-in-one dashboard to effortlessly track sales and analyze performance",
+
+    "point2":"Multiple Payment Options",
+    "desc2":"Supports both traditional and electronic payment methods, making customer transactions seamless",
+
+    "point3":"Integration with Other Systems",
+    "desc3":"Enables connectivity with accounting and inventory management systems to enhance business operations efficiency",
+
+    "point4":"24/7 Technical Support",
+    "desc4":"A dedicated support team is always ready to resolve issues and ensure an exceptional user experience",
+
+    "point5":"User-Friendly Interface",
+    "desc5":"A simple and intuitive design that suits all users, even those with no technical background",
+
+    "point6":"Accurate Reporting",
+    "desc6":"Provides daily, weekly, and monthly reports for clear analysis of revenues and expenses",
+    "get_trial":"Start your fre trial"
+
+  },
+  "solutionpayments":{
+    "title":"POS Solutions",
+    "sub_title":"My Cash Point of Sale (POS) management system gives you complete control over managing operations in your store",
+    
+    "point1":"purchase management",
+    "desc1":"Complete control over purchase orders",
+    
+    "point2":"Cloud point of sale system",
+    "desc2":"Possibility of digital connectivity and storage of all transactions",
+    
+    "point3":"Inventory Management",
+    "desc3":"Accurate monitoring of quantities and order rates",
+    
+    "point4":"Supplier files",
+    "desc4":"Dedicated control panel for supply chain operations",
+        
+    "point5":"Managing customer files",
+    "desc5":"Get reports about customer operations",
+
+    "point6":"Powers",
+    "desc6":"Determine the powers and job duties of employees",
+    "get_trial":"Start your fre trial"
+
+
+  },
+  "ourvisionintro":{
+    "title":"About My Cash",
+    "desc":"My Cash established to meet the growing needs of the rapidly expanding business sector in the Kingdom. We developed comprehensive system designed to manage your payments and sales invoicing with just a click. Leveraging advanced cloud computing technologies, My Cash delivers efficient and flexible technologies, making it the perfect solution for businesses looking to enhance their operations"
+  },
+  "OurVisionBody":{
+    "heading":"Our Vision and Mission",
+
+    "our_vision":"Our Vision",
+    "our_vision_desc":"To lead the way in empowering businesses through technology, creating a positive and lasting impact in the local market",
+  
+    "our_mission":"Our Mission",
+    "our_mission_desc":" Provide innovative technological solutions that streamline point-of-sale management, facilitate digital payment processing, and organize financial operations"
+  },
+  "Articles":{
+    "title":"Our Articles",
+    "sub_title" : "MyCash system is designed to improve the management of payments and sales and facilitate its operations according to professional standards and deep experience"
+  }
+
+}
