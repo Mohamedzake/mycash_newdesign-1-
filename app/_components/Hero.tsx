@@ -56,7 +56,7 @@ const Hero = () => {
         </div>{" "}
         {/* <CompanyLogos /> */}
         {/* <Brands /> */}
-        <InfiniteMovingCardsDemo />
+        {/* <InfiniteMovingCardsDemo /> */}
       </div>{" "}
     </div>
   );

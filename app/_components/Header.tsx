@@ -54,7 +54,7 @@ export default function Header() {
               <Image
                 src={logo}
                 alt="MyCash Logo"
-                className={`object-contain xxs:h-8 xs:h-10 sm:h-12 md:h-12 xxs:w-40 `}
+                className={`object-contain h-8 xxs:h-8 xs:h-10 sm:h-12 md:h-12 xxs:w-40 `}
               />
             </Link>
           </div>
@@ -101,22 +101,22 @@ export default function Header() {
                         className="block px-4 py-2 text-gray-800 hover:bg-gray-100 "
                         onClick={() => setOpenDropdown(null)}
                       >
-                       {t("solutions_ai")}
+                        {t("solutions_ai")}
                       </Link>
                       <Link
                         href="/sales"
                         className="block px-4 py-2 text-gray-800 hover:bg-gray-100"
                         onClick={() => setOpenDropdown(null)}
                       >
-                       {t("solutions_sales")}
-                       </Link>
+                        {t("solutions_sales")}
+                      </Link>
                       <Link
                         href="/payments"
                         className="block px-4 py-2 text-gray-800 hover:bg-gray-100"
                         onClick={() => setOpenDropdown(null)}
                       >
-                       {t("solutions_pos")}
-                       </Link>
+                        {t("solutions_pos")}
+                      </Link>
                     </div>
                   )}
                 </div>
@@ -215,7 +215,7 @@ export default function Header() {
                           : "text-gray-700"
                       } hover:text-primary-green duration-200 hover:pr-1 transition-all `}
                     >
-                       حلول المدفوعات 
+                      حلول المدفوعات
                     </Link>
                   </div>
                 )}
@@ -225,7 +225,9 @@ export default function Header() {
               <Link href="/reachmycash">{t("start_now")}</Link>
             </button>
             <button className="inline font-bold h-full bg-primary-blue text-white w-full py-3 rounded-full">
-              <Link href="https://mycashweb.mycashtest.com/login">{t("login")}</Link>
+              <Link href="https://mycashweb.mycashtest.com/login">
+                {t("login")}
+              </Link>
             </button>
           </nav>
         )}
@@ -233,4 +235,3 @@ export default function Header() {
     </>
   );
 }
-
