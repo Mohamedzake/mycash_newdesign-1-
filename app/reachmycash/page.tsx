@@ -21,7 +21,7 @@ const LandingPage = () => {
       <WhyChooseMyCash />{" "}
       <div
         dir="ltr"
-        className="h-[40rem] rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center"
+        className="h-[40rem] rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center overflow-hidden"
       >
         <InfiniteMovingCards items={slides} direction="right" speed="fast" />
         <InfiniteMovingCards items={slides} direction="left" speed="fast" />

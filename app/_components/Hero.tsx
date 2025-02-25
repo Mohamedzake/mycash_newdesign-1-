@@ -20,7 +20,7 @@ const Hero = () => {
 
   return (
     <div className="flex justify-between items-center text-center ">
-      <div className="flex flex-col items-center justify-between w-screen h-auto">
+      <div className="flex flex-col items-center justify-between w-screen h-auto overflow-hidden ">
         <div className="h-20 ">
           <Header />
         </div>
