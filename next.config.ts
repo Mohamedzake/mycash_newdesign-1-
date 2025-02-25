@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     domains: ["mycashsite.sa"],
     unoptimized: true, // Disable image optimization for static export
   },
-  // output: 'export',  // This tells Next.js to export the app as static files
+  output: "export", // This tells Next.js to export the app as static files
   distDir: "build",
 };
 
