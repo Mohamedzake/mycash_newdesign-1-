@@ -24,7 +24,7 @@ const Hero = () => {
         <div className="h-20 ">
           <Header />
         </div>
-        <div className="text-balance md:w-[95%] lg:w-[90%] xl:w-[70%] 2xl:w-[60%] flex flex-col md:*:!leading-[2.2] lg:*:!leading-[1.9] pt-4 md:pt-10 xxs:mt-[8px] xs:mt-auto">
+        <div className="text-balance md:w-[95%] lg:w-[90%] xl:w-[70%] 2xl:w-[60%] flex flex-col md:*:!leading-[2.2] lg:*:!leading-[1.9] pt-1 md:pt-10 xxs:mt-[8px] xs:mt-auto">
           <h2 className="text-2xl  text-primary-blue font-bold text-center sm:text-3xl lg:text-4xl xl:text-5xl 2xl:text-4xl">
             {/* <h2 className="text-base md:text-sm lg:text-6xl xl:text-2xl 2xl:text-3xl text-primary-blue font-bold text-center"> */}
             {t("description_title")}
@@ -42,7 +42,7 @@ const Hero = () => {
                     </Link>
                 </div> */}
         <FreeTrialButton />
-        <div className="img-container w-[95%] pb-10 xl:w-[70%] xl:pt-10 h-[20rem] md:h-auto">
+        <div className="img-container w-[95%] pb-1 xl:w-[70%] xl:pt-10 h-[20rem] md:h-auto">
           <Image
             src={isArabic ? ar_hero_web : en_hero_web}
             alt="Hero Image"
