@@ -221,7 +221,7 @@ export const InfiniteMovingCards = ({
         {items.map((item) => (
           <li
             key={item.alt}
-            className="w-[300px] flex justify-center items-center relative flex-shrink-0 bg-gray-950 p-0"
+            className="w-[300px] flex justify-center items-center relative flex-shrink-0  p-0"
           >
             <blockquote>
               {/* <div
@@ -233,7 +233,7 @@ export const InfiniteMovingCards = ({
                 alt={item.alt}
                 width={200}
                 height={150}
-                className="object-contain bg-primary-10 bg-green "
+                className="object-contain bg-primary-10  "
               />
             </blockquote>
           </li>
