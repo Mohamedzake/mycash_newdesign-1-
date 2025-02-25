@@ -2,15 +2,15 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
-    domains: ['mycashsite.sa'],
-    unoptimized: true,  // Disable image optimization for static export
+    domains: ["mycashsite.sa"],
+    unoptimized: true, // Disable image optimization for static export
   },
-  output: 'export',  // This tells Next.js to export the app as static files
+  // output: 'export',  // This tells Next.js to export the app as static files
   distDir: "build",
 };
 
 module.exports = {
-  ...nextConfig,  // Spread existing config
+  ...nextConfig, // Spread existing config
 
   // async headers() {
   //   return [
