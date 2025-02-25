@@ -54,7 +54,7 @@ export default function Header() {
               <Image
                 src={logo}
                 alt="MyCash Logo"
-                className={`object-contain h-8 xxs:h-8 xs:h-10 sm:h-12 md:h-12 xxs:w-40 `}
+                className={`object-contain  xxs:h-8 xs:h-10 sm:h-12 md:h-12 xxs:w-40 `}
               />
             </Link>
           </div>
