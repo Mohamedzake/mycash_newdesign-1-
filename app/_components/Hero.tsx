@@ -42,7 +42,7 @@ const Hero = () => {
                     </Link>
                 </div> */}
         <FreeTrialButton />
-        <div className="img-container w-[95%] pb-10 xl:w-[70%] xl:pt-10 h-auto">
+        <div className="img-container w-[95%] pb-10 xl:w-[70%] xl:pt-10 h-[20rem]">
           <Image
             src={isArabic ? ar_hero_web : en_hero_web}
             alt="Hero Image"
