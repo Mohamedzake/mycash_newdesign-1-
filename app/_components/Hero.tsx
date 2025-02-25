@@ -41,7 +41,7 @@ const Hero = () => {
                         {t("get_trial")}
                     </Link>
                 </div> */}
-        <FreeTrialButton />
+        <FreeTrialButton /> <InfiniteMovingCardsDemo />
         <div className="img-container w-[95%] pb-10 xl:w-[70%] xl:pt-10">
           <Image
             src={isArabic ? ar_hero_web : en_hero_web}
