@@ -20,7 +20,7 @@ const Hero = () => {
 
   return (
     <div className="flex justify-between items-center text-center ">
-      <div className="flex flex-col items-center justify-between w-screen  h-auto overflow-hidden ">
+      <div className="flex flex-col items-center justify-between w-screen  h-screen overflow-hidden ">
         <div className="h-20 ">
           <Header />
         </div>
@@ -41,7 +41,7 @@ const Hero = () => {
                         {t("get_trial")}
                     </Link>
                 </div> */}
-        <FreeTrialButton /> <InfiniteMovingCardsDemo />
+        <FreeTrialButton />
         <div className="img-container w-[95%] pb-10 xl:w-[70%] xl:pt-10">
           <Image
             src={isArabic ? ar_hero_web : en_hero_web}
@@ -53,7 +53,6 @@ const Hero = () => {
             alt="Hero Image"
             className="w-full h-full  md:hidden"
           />{" "}
-          <InfiniteMovingCardsDemo />
         </div>
         {/* <CompanyLogos /> */}
         {/* <Brands /> */}
