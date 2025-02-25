@@ -26,8 +26,8 @@
 "use client";
 import React from "react";
 import { useParams } from "next/navigation";
-import { articles } from "../page";
-
+// import { articles } from "../page";
+import { articles } from "../articles";
 const ArticleDetails = () => {
   const { articleid } = useParams();
 
