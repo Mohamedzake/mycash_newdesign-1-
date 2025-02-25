@@ -20,7 +20,7 @@ const Hero = () => {
 
   return (
     <div className="flex justify-between items-center text-center ">
-      <div className="flex flex-col items-center justify-between w-screen h-auto overflow-hidden ">
+      <div className="flex flex-col items-center justify-between w-screen  h-auto overflow-hidden ">
         <div className="h-20 ">
           <Header />
         </div>
@@ -52,12 +52,13 @@ const Hero = () => {
             src={hero_mobile}
             alt="Hero Image"
             className="w-full h-full  md:hidden"
-          />
-        </div>{" "}
+          />{" "}
+          <InfiniteMovingCardsDemo />
+        </div>
         {/* <CompanyLogos /> */}
         {/* <Brands /> */}
         <InfiniteMovingCardsDemo />
-      </div>{" "}
+      </div>
     </div>
   );
 };

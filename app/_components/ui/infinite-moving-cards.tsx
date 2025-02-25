@@ -214,7 +214,7 @@ export const InfiniteMovingCards = ({
       <ul
         ref={scrollerRef}
         className={cn(
-          "flex  min-w-full shrink-0 py-4 w-max flex-nowrap",
+          "flex  min-w-full shrink-0  w-max flex-nowrap",
           start && "animate-scroll"
         )}
       >
@@ -224,16 +224,16 @@ export const InfiniteMovingCards = ({
             className="w-[300px] flex justify-center items-center relative flex-shrink-0"
           >
             <blockquote>
-              <div
+              {/* <div
                 aria-hidden="true"
                 className="user-select-none -z-1 pointer-events-none absolute -left-0.5 -top-0.5 h-[calc(100%_+_4px)] w-[calc(100%_+_4px)]"
-              ></div>
+              ></div> */}
               <Image
                 src={item.src}
                 alt={item.alt}
                 width={200}
                 height={150}
-                className="object-contain bg-primary-10 p-4"
+                className="object-contain bg-primary-10 "
               />
             </blockquote>
           </li>
